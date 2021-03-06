@@ -5,14 +5,14 @@
 - He speaks English and Yoruba and he is currently learning Dutch.
 - He follows a course Hack Your Future course in Brussels.
 
-# Hobby
-- He likes cooking.
-- He likes fixing computer gadgets.
-- He likes research.
-
 # Ambitions
 - He want to be a creative web developer where he can create an application to detect Carbon dioxide emission in every area. 
 - He want to be a research scientist.
+
+# Interests
+- He likes cooking.
+- He likes fixing computer gadgets.
+- He likes research.
 
 # Follow-Up Interview
 - He participated in climate change events where he was awarded a global ambassador for the world sustainable development in Germany.
