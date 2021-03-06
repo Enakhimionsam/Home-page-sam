@@ -1,1 +1,2 @@
-# Home-page-sam
+# Planning
+- UX- UI Home-Page-Sam
