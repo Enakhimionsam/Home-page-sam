@@ -19,4 +19,4 @@
 - I want **Faq** Frequently Asked Questions in order to have direct answers to questions or queries 
 
 ### As employer,
-- - I wnat a **bio data** section of the prospective employee.
+- I wnat a **bio data** section of the prospective employee.
