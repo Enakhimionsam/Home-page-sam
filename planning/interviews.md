@@ -6,8 +6,8 @@
 - He follows a course Hack Your Future course in Brussels.
 
 ## Ambitions
-- He want to be a creative web developer where he can create an application to detect Carbon dioxide emission in every area. 
-- He want to be a research scientist.
+- He wants to be a creative web developer where he can create an application and website where individuals can give report of weather changes. 
+- He wants to be a research scientist.
 
 ## Interests
 - He likes cooking.
@@ -21,7 +21,7 @@
   
 ### Notes
 - Samuel wants to be a creative web developer because of the prospects in the information technology sector.
-- He wants to integrate these skills in his research area to build applications for a better understanding of climate change events.
+- He wants to integrate these skills in his research area to build websites for a better understanding of climate change events.
 
 ### Summary
 Samuel is educated and has skills in data science and research.
